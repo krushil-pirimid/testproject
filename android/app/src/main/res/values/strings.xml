@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">myApp</string>
+    <string name="title_activity_main">myApp</string>
+    <string name="package_name">com.pirimid.testApp</string>
+    <string name="custom_url_scheme">com.pirimid.testApp</string>
+    <string name="app_domain_name">testApp.pirimid.com</string>
+    <string name="dynamic_path">/</string>
+</resources>
